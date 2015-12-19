@@ -12,6 +12,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
+/*
+        CitySearchActivity is the main activity to show the possible different places
+        named the same name such as London which could be from United Kingdom or Canada
+        or US.
+ */
 public class CitySearchActivity extends Activity {
 
     private static final String TAG = CitySearchActivity.class.getSimpleName();
